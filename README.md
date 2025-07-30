@@ -4,7 +4,7 @@ Introduction
 Rick and Morty Explorer adalah aplikasi mobile yang menampilkan daftar karakter dari serial Rick and Morty menggunakan API resmi. Aplikasi ini dibangun dengan React Native dan menerapkan Clean Architecture. Fitur favorit disimpan secara lokal menggunakan SQLite, dan aplikasi juga mendukung pencarian serta tampilan detail karakter.
 
 Features:
-
+<a name="introduction"></a> Introduction :
 -Menampilkan daftar karakter dari Rick and Morty API
 -Menampilkan detail karakter secara lengkap
 -Mencari karakter berdasarkan nama
